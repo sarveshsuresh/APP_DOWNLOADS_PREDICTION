@@ -1,5 +1,7 @@
 # APP_DOWNLOADS_PREDICTION
 
+My solution to the hackathon held by MachineHack helped me finish 1st on the PUBLIC LEADERBOARD
+
 DESCRIPTION GIVEN BY ORGANISERS:
 
 The smartphone revolution started less than 2 decades ago with   the evolution of technologies like touch screen and advanced micro chips that could outmatch the processing capacities of  even some of the Computers at that time. 
